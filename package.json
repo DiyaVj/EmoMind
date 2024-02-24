@@ -1,7 +1,7 @@
 {
   "name": "mood-journal",
   "version": "1.0.0",
-  "description": "A digital journal app with mood tracking.",
+  "description": "EmoMind-The personal mental wellness companion.",
   "main": "index.js",
   "scripts": {
     "client-install": "cd client && npm install",
@@ -10,16 +10,8 @@
     "client": "cd client && npm start",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ayush0402/mood-journal.git"
-  },
-  "author": "Ayush Kumar",
+  "author": "Diya Vijay",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ayush0402/mood-journal/issues"
-  },
-  "homepage": "https://github.com/ayush0402/mood-journal#readme",
   "dependencies": {
     "apos-to-lex-form": "^1.0.5",
     "body-parser": "^1.20.2",
@@ -27,10 +19,12 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "firebase": "^10.8.0",
     "firebase-admin": "^11.5.0",
     "mongoose": "^7.0.2",
     "morgan": "^1.10.0",
     "natural": "^6.2.0",
+    "nodemon": "^3.0.3",
     "openai": "^3.2.1",
     "spelling-corrector": "^3.0.0",
     "stopword": "^2.0.8"
