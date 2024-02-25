@@ -2,6 +2,10 @@
 
 ![EmoMind Logo](https://github.com/DiyaVj/EmoMind/assets/87236107/871d41c3-bb6c-4c22-b745-ffbac2d6e47a)
 
+<div align="center">
+   
+## <i>EmoMind—empowering minds, transforming lives</i>
+</div>
 **EmoMind** is a comprehensive web application designed to empower individuals to prioritize and enhance their mental well-being. With features such as daily challenges, sentiment analysis, AI therapy, and community support, EmoMind aims to provide proactive tools for self-reflection and mental health improvement.
 
 ## Features
